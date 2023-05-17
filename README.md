@@ -1,10 +1,10 @@
 # Comment Analyzer Datathon 2023 Project
 
 ## Authors
-- Imanol Armando González Solís
-- Marco Antonio Lució Sosa
-- Pedro Gabriel Sanchez Valdez
-- José Miguel Guerrero Jiménez
+- [Imanol Armando González Solís](https://github.com/imanolgzz)
+- [Marco Antonio Lució Sosa](https://github.com/marcoolucio17)
+- [Pedro Gabriel Sanchez Valdez](https://github.com/Pedrosan26)
+- [José Miguel Guerrero Jiménez](https://github.com/WarriorMind04)
 
 ## Overview
 This program was build using Pandas, TextBlob and Profanity_Checker libraries to perform sentiment analysis and detect inappropriate comments in a set of customer reviews for VivaAerobus. The goal was to delete inappropriate or abusive comments, determine overall customer satisfaction and obtain the main complaints of customers in order to improve in these areas. This project was done in a 24-hour data science marathon on May 6-7th , 2023 and for confidentiality reasons the code was modified to work with sample databases created by us.
